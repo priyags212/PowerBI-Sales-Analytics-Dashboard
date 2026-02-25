@@ -1,40 +1,64 @@
-# PowerBI-Sales-Analytics-Dashboard
-Interactive Power BI dashboard analyzing Sales and Profit performance across regions, segments, and sub-categories. Provides insights on monthly trends, regional performance, and profitability using data visualization and business intelligence techniques.
-This project showcases an interactive Sales & Profit Dashboard developed using Power BI.
-The attached video demonstrates the complete dashboard with visual insights and performance analysis.
+📊 Power BI Sales & Profit Analytics Dashboard
+
+An interactive Sales & Profit Dashboard built using Power BI to analyze business performance across regions, customer segments, and product sub-categories.
+This project demonstrates data visualization, business intelligence concepts, and analytical thinking to generate meaningful insights from sales data.
 
 🎥 Project Demo
 
-The repository includes a video file (Powerbi_dashboard.mp4) that presents:
-📈 Monthly Sales Trends
+📌 The repository includes a demo video file:
+PowerBI_Sales_Profit_Dashboard_Demo.mp4
+
+The video demonstrates:
+
+📈 Monthly Sales Trend Analysis
 🌍 Sales & Profit by Region
 🧩 Profit by Customer Segment
 📊 Sales by Sub-Category
 🔎 Sales vs Profit Comparison
 
-📌 Project Objective
+📌 Project Overview
 
-- To analyze business sales performance and profitability across different regions and customer segments using interactive visualizations.
+The dashboard provides a comprehensive view of sales performance by analyzing:
+- Regional revenue and profitability
+- Segment-wise contribution to profit
+- Product category and sub-category performance
+- Monthly sales growth patterns
+- The objective is to support data-driven business decision-making through interactive visuals.
+
+📊 Key Business Insights
+
+- Identified top-performing regions based on revenue and profit.
+- Analyzed customer segments contributing most to overall profit.
+- Observed monthly sales trends to track business growth.
+- Compared product sub-categories to detect high-performing products.
 
 🛠 Tools & Technologies Used
+
 - Power BI
-- Data Cleaning & Transformation
+- Power Query (Data Cleaning & Transformation)
 - Data Modeling
-- DAX Measures
-- Data Visualization
+- DAX (Basic Measures & Calculations)
+- Data Visualization Techniques
 
-📊 Key Insights
-- Identified top-performing regions based on revenue and profit.
-- Compared customer segments to evaluate profitability.
-- Analyzed product sub-categories contributing most to sales.
-- Observed monthly trends to track business growth.
-
-📁 Files Included
-
-🎥 Powerbi_dashboard.mp4 (Dashboard Demonstration Video)
+📁 Repository Contents
+📊 Power BI Dashboard (.pbix file)
+🎥 Dashboard Demo Video (.mp4)
 📸 Dashboard Screenshot
-📄 README.md
+📄 README Documentation
 
-🎯 Conclusion
+▶ How to Use
 
-This dashboard helps in understanding business performance patterns and supports data-driven decision-making through visual analytics.
+- Download the .pbix file.
+- Open it using Power BI Desktop.
+- Explore interactive visuals and filters.
+- Watch the demo video for a guided walkthrough of insights.
+
+🎯 Project Objective
+
+- To build an interactive Business Intelligence dashboard that transforms raw sales data into actionable business insights using visualization and analytical techniques.
+
+👩‍💻 Author
+
+Priyanka Mankar
+
+Aspiring Data Analyst | Power BI Enthusiast | Data Analytics Learner
