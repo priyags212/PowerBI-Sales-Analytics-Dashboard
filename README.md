@@ -4,6 +4,7 @@ This project showcases an interactive Sales & Profit Dashboard developed using P
 The attached video demonstrates the complete dashboard with visual insights and performance analysis.
 
 🎥 Project Demo
+
 The repository includes a video file (Powerbi_dashboard.mp4) that presents:
 📈 Monthly Sales Trends
 🌍 Sales & Profit by Region
@@ -12,24 +13,28 @@ The repository includes a video file (Powerbi_dashboard.mp4) that presents:
 🔎 Sales vs Profit Comparison
 
 📌 Project Objective
-To analyze business sales performance and profitability across different regions and customer segments using interactive visualizations.
+
+- To analyze business sales performance and profitability across different regions and customer segments using interactive visualizations.
+
 🛠 Tools & Technologies Used
-Power BI
-Data Cleaning & Transformation
-Data Modeling
-DAX Measures
-Data Visualization
+- Power BI
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Measures
+- Data Visualization
 
 📊 Key Insights
-Identified top-performing regions based on revenue and profit.
-Compared customer segments to evaluate profitability.
-Analyzed product sub-categories contributing most to sales.
-Observed monthly trends to track business growth.
+- Identified top-performing regions based on revenue and profit.
+- Compared customer segments to evaluate profitability.
+- Analyzed product sub-categories contributing most to sales.
+- Observed monthly trends to track business growth.
 
 📁 Files Included
+
 🎥 Powerbi_dashboard.mp4 (Dashboard Demonstration Video)
 📸 Dashboard Screenshot
 📄 README.md
 
 🎯 Conclusion
+
 This dashboard helps in understanding business performance patterns and supports data-driven decision-making through visual analytics.
